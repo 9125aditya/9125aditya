@@ -7,9 +7,6 @@
 - 💻 Currently learning **MERN Stack + DSA**
 - 🔥 Building real-world full-stack projects
 - 📚 Computer Science student
-- 🎯 Goal: Crack top tech internships
-
----
 
 ## 🛠️ Tech Stack
 
