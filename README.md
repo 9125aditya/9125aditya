@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aditya Singh</h1>
+<h3 align="center">MERN Stack Developer | DSA Learner | Building Real Projects</h3>
 
-<!--
-**9125aditya/9125aditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Currently learning **MERN Stack + DSA**
+- 🔥 Building real-world full-stack projects
+- 📚 Computer Science student
+- 🎯 Goal: Crack top tech internships
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- JavaScript
+- C++
+- HTML5
+- CSS3
+
+**Frontend**
+- React.js
+- Tailwind CSS
+
+**Backend**
+- Node.js
+- Express.js
+- MongoDB
+
+**Tools**
+- Git & GitHub
+- Postman
+- VS Code
+
+---
+
+## 📈 Currently Learning
+- Advanced React
+- System Design Basics
+- Data Structures & Algorithms
+
+---
+
+## 📌 Featured Projects
+
+### 🏋️ Workout Tracker (MERN)
+- Full-stack CRUD app
+- JWT Authentication
+- MongoDB Atlas integration
+
+### 📚 Library Management API
+- RESTful API using Node + MongoDB
+- MVC structure
+- Error handling middleware
+
+---
+
+## 📊 GitHub Stats
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=9125aditya&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/aditya-singh-a1867a324
+- Portfolio: https://aditya-portfolio-kappa-umber.vercel.app/
+
+---
+
+⭐️ From [Aditya Singh](https://github.com/9125aditya)
