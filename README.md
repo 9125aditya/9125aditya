@@ -18,6 +18,7 @@
 
 **Frontend**
 - React.js
+- React Native
 - Tailwind CSS
 
 **Backend**
