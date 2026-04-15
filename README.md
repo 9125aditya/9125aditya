@@ -104,33 +104,6 @@ const aditya = {
 
 ---
 
-## 📌 Projects
-
-### 🏭 Aditya Industries Website
-
-Full stack MERN website for a manufacturing company
-
-**Features:**
-
-* Responsive website
-* Contact form with MongoDB
-* Email notification system
-* Admin dashboard
-* WhatsApp enquiry integration
-
----
-
-### 🍩 Donut Chat App
-
-Real-time chat application built with React Native
-
-**Features:**
-
-* Clean and responsive messaging UI
-* Smooth real-time chat experience
-* Mobile-first design
-
----
 
 ## 📬 Connect With Me
 
