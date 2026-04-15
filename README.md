@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
-<h3 align="center">CSE Student | DSA + Full Stack Journey</h3>
+<h3 align="center">Full Stack Developer | Building Scalable Web & Mobile Applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Building+Consistency;DSA+with+Striver;React+Native+%2B+Web+Dev" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full+Stack+Developer;React+Native+%2B+Web+Apps;Building+Real-World+Products" />
 </p>
 
 ---
@@ -12,10 +12,11 @@
 ```js
 const aditya = {
     location: "India 🇮🇳",
-    currentFocus: ["DSA", "Full-Stack Development"],
-    building: "Real-world projects with practical impact",
-    mindset: "Consistency > Motivation",
-    trait: "Curious mind learning to execute with focus"
+    role: "Full-Stack Developer",
+    focus: ["Frontend", "Backend", "Mobile Development"],
+    building: "Scalable and user-centric applications",
+    mindset: "Execution > Perfection",
+    trait: "Curious mind focused on building and improving"
 };
 ```
 
@@ -25,11 +26,21 @@ const aditya = {
 
 ### 💻 Languages
 
+* C++
+* Java
+* JavaScript
+
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,java,js" />
 </p>
 
 ### 🌐 Web Development
+
+* React.js
+* Node.js
+* Express.js
+* HTML5
+* CSS3
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,node,express,html,css" />
@@ -37,17 +48,27 @@ const aditya = {
 
 ### 📱 App Development
 
+* React Native
+
 <p>
   <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ### 🗄️ Databases
 
+* MongoDB
+* MySQL
+
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### ⚙️ Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+* Postman
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
@@ -73,11 +94,11 @@ const aditya = {
 
 ## 🚀 What I Bring
 
-* 💡 Strong problem-solving mindset (DSA focused)
-* ⚡ Ability to build full-stack applications
-* 🧠 Fast learner with execution mindset
-* 🔄 Consistent and disciplined growth
-* 🎯 Focus on real-world impactful projects
+* 💡 Ability to design and build full-stack applications
+* ⚡ Strong focus on clean UI and user experience
+* 🧠 Problem-solving with real-world implementation
+* 🔄 Consistent learning and execution
+* 🎯 Focus on building impactful, usable products
 
 ---
 
