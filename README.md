@@ -1,38 +1,32 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
-<h3 align="center">CSE Student | DSA + Web Dev Enthusiast</h3>
+<h3 align="center">CSE Student | DSA + Web Dev</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=DSA+with+Striver;React+Native+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=DSA+with+Striver;React+Native+Developer" />
 
 ---
 
 ### 🚀 About Me
-- 🎓 2nd Year CSE Student
-- 💻 Solving DSA (Striver Sheet)
-- 📱 Built **Donut Chat App**
-- ⚡ Curious mind (but learning to stay consistent)
+- 🎓 2nd Year CSE
+- 💻 DSA (Striver Sheet)
+- 📱 Built Donut Chat App
 
 ---
 
 ### 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=cpp,java,js,react,node,git,github" />
+<img src="https://skillicons.dev/icons?i=cpp,java,js,react,node,git" />
 
 ---
 
-### 📊 GitHub Stats
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=9125aditya&show_icons=true&theme=tokyonight)
+### 📊 Stats
+![stats](https://github-readme-stats.vercel.app/api?username=9125aditya&show_icons=true)
+![streak](https://streak-stats.demolab.com/?user=9125aditya)
 
 ---
 
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=9125aditya&theme=tokyonight)
+### 📌 Projects
+- Donut Chat App (React Native)
 
 ---
 
-### 📌 Top Projects
-- 🍩 Donut Chat App (React Native)
-- 💡 More projects coming soon...
-
----
-
-### 🌐 Connect with me
-[LinkedIn](YOUR_LINK_HERE)
+### 🌐 Connect
+[LinkedIn](YOUR_LINK)
