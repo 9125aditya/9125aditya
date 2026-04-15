@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
-<h3 align="center">Full Stack Developer | Building Scalable Web & Mobile Applications</h3>
+<h3 align="center">Full Stack Developer | Crafting Scalable Web & Mobile Experiences</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full+Stack+Developer;React+Native+%2B+Web+Apps;Building+Real-World+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Developer;React+Native+%2B+Web+Apps;Turning+Ideas+into+Products" />
 </p>
 
 ---
@@ -13,10 +13,11 @@
 const aditya = {
     location: "India 🇮🇳",
     role: "Full-Stack Developer",
+    coreStack: "MERN + React Native",
     focus: ["Frontend", "Backend", "Mobile Development"],
-    building: "Scalable and user-centric applications",
-    mindset: "Execution > Perfection",
-    trait: "Curious mind focused on building and improving"
+    building: "Scalable and user-first digital products",
+    mindset: "Consistency + Execution = Growth",
+    edge: "Curiosity turned into real-world builds"
 };
 ```
 
@@ -41,9 +42,10 @@ const aditya = {
 * Express.js
 * HTML5
 * CSS3
+* Tailwind CSS
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,node,express,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,node,express,html,css,tailwind" />
 </p>
 
 ### 📱 App Development
@@ -95,16 +97,41 @@ const aditya = {
 ## 🚀 What I Bring
 
 * 💡 Ability to design and build full-stack applications
-* ⚡ Strong focus on clean UI and user experience
-* 🧠 Problem-solving with real-world implementation
-* 🔄 Consistent learning and execution
-* 🎯 Focus on building impactful, usable products
+* ⚡ Strong focus on performance, UI, and user experience
+* 🧠 Practical problem-solving with real implementations
+* 🔄 Consistent learner with execution mindset
+* 🎯 Focus on building real-world, usable products
 
 ---
 
 ## 📌 Projects
 
-* 🍩 Donut Chat App (React Native)
+### 🏭 Aditya Industries Website
+
+Full stack MERN website for a manufacturing company
+
+**Tech Stack:**
+React • Tailwind CSS • Node.js • Express • MongoDB
+
+**Features:**
+
+* Responsive website
+* Contact form with MongoDB
+* Email notification system
+* Admin dashboard
+* WhatsApp enquiry integration
+
+---
+
+### 🍩 Donut Chat App
+
+Real-time chat application built with React Native
+
+**Features:**
+
+* Clean and responsive messaging UI
+* Smooth real-time chat experience
+* Mobile-first design
 
 ---
 
