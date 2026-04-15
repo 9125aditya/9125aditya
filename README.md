@@ -1,68 +1,38 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
-<h3 align="center">MERN Stack Developer | DSA Learner | Building Real Projects</h3>
+<h3 align="center">CSE Student | DSA + Web Dev Enthusiast</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=DSA+with+Striver;React+Native+Developer;Always+Learning+New+Things" />
 
 ---
 
-## 🚀 About Me
-- 💻 Currently learning **MERN Stack + DSA**
-- 🔥 Building real-world full-stack projects
-- 📚 Computer Science student
-
-## 🛠️ Tech Stack
-
-**Languages**
-- JavaScript
-- C++
-- HTML5
-- CSS3
-
-**Frontend**
-- React.js
-- React Native
-- Tailwind CSS
-
-**Backend**
-- Node.js
-- Express.js
-- MongoDB
-
-**Tools**
-- Git & GitHub
-- Postman
-- VS Code
+### 🚀 About Me
+- 🎓 2nd Year CSE Student
+- 💻 Solving DSA (Striver Sheet)
+- 📱 Built **Donut Chat App**
+- ⚡ Curious mind (but learning to stay consistent)
 
 ---
 
-## 📈 Currently Learning
-- Advanced React
-- System Design Basics
-- Data Structures & Algorithms
+### 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=cpp,java,js,react,node,git,github" />
 
 ---
 
-## 📌 Featured Projects
-
-### 🏋️ Workout Tracker (MERN)
-- Full-stack CRUD app
-- JWT Authentication
-- MongoDB Atlas integration
-
-### 📚 Library Management API
-- RESTful API using Node + MongoDB
-- MVC structure
-- Error handling middleware
-
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=9125aditya&show_icons=true&theme=tokyonight)
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/aditya-singh-a1867a324
-- Portfolio: https://aditya-portfolio-kappa-umber.vercel.app/
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=9125aditya&theme=tokyonight)
 
 ---
 
-⭐️ From [Aditya Singh](https://github.com/9125aditya)
+### 📌 Top Projects
+- 🍩 Donut Chat App (React Native)
+- 💡 More projects coming soon...
+
+---
+
+### 🌐 Connect with me
+[LinkedIn](YOUR_LINK_HERE)
