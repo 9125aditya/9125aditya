@@ -110,9 +110,6 @@ const aditya = {
 
 Full stack MERN website for a manufacturing company
 
-**Tech Stack:**
-React • Tailwind CSS • Node.js • Express • MongoDB
-
 **Features:**
 
 * Responsive website
