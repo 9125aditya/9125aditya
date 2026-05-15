@@ -51,6 +51,7 @@ const aditya = {
 ### 📱 App Development
 
 * React Native
+* Firebase
 
 <p>
   <img src="https://skillicons.dev/icons?i=react" />
